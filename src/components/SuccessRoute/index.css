@@ -1,0 +1,75 @@
+.success-bg-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.success-view-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    max-width: 400px;
+    height: 100vh;
+}
+
+.art-board{
+    margin-top: 95px;
+    width: 305px;
+    height: 308px;
+    flex-shrink: 0;
+    margin-bottom: 47px;
+}
+.success-view-heading{
+    color: #333;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.success-view-descrition-container{
+    width: 318px;
+    margin-bottom: 97px;
+}
+.success-view-descrition{
+    color: #999;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.add-css{
+    color: #666;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.get-start-btn{
+    display: inline-flex;
+    height: 36px;
+    padding: 11px 30px;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    background-color:#F7B348 ;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 18px;
+}
+.btn-description{
+    color: #999;
+    font-family: Work Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.success-btn-container{
+    margin-bottom: 96px;
+}

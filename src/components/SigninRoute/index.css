@@ -1,0 +1,108 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    width: 264px;
+    height: 50px;
+    margin-top: 156px;
+    margin-bottom: 111px;
+    
+}
+.greet-container{
+    width: 237px;
+    height: 67px;
+    margin-bottom: 68px;
+}
+
+.greet-heading{
+    color: #000;
+    font-family: Work Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.greet-description{
+    color: #666;
+font-family: Work Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    
+}
+.end-description{
+    color: #999;
+text-align: center;
+font-family: Work Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+}
+.btn-conatiner{
+    width: 224px;
+    height: 36px;
+    flex-shrink: 0;
+    margin-top: 80px;
+    border-radius: 100px;
+    background: #F7B348;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+
+}
+
+.sign-in-btn{
+   
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+border: none;
+background-color: transparent;
+cursor: pointer;
+}
+.number-container{
+    width: 343px;
+height: 44px;
+flex-shrink: 0;
+border-radius: 5px;
+border: 1px solid #FFD37D;
+}
+.input{
+    color: #333;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+    margin-top: 11px;
+    margin-left: 20px;
+    border: none;
+}
+.drop-down{
+    border: none;
+}
+.contact-number-container{
+    margin-bottom: 31px;
+}
+option{
+    color: #000;
+font-family: Work Sans;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
